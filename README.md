@@ -1,7 +1,8 @@
 
 # Setting Up Agency Swarm Script
 
-Credits for original repo by @john-adeojo: https://github.com/john-adeojo/agency_swarm_tutorial 
+Credits for original repo by @john-adeojo: 
+https://github.com/john-adeojo/agency_swarm_tutorial 
 
 ### Prerequisites
 1. **Install Anaconda:**  
